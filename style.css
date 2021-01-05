@@ -1,0 +1,228 @@
+/* <style>
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  color: #a2a6a8;
+
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+</style> */
+:root {
+  font-size: 13px;
+}
+
+body {
+  width: 1440px;
+  background-color: hsl(210, 46%, 95%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: white;
+  margin: 100px;
+  margin-left: 0;
+}
+
+section {
+  width: 1200px;
+  margin: 0;
+  margin: auto;
+}
+
+.daniel {
+  width: 528px;
+  background-color: hsl(263, 55%, 52%);
+  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 30px;
+  height: 234.766px;
+
+}
+
+.quotation {
+  position: absolute;
+  margin-top: -58px;
+  margin-right: -100px;
+}
+
+.quotation img {
+  margin-left: 350px;
+}
+
+.jonathan {
+  float: right;
+  width: 200px;
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 10px;
+  position: relative;
+  margin-top: -325px;
+  margin-right: 322px;
+  padding: 30px;
+
+}
+
+.jeanette {
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  padding: 30px;
+  width: 200px;
+  height: 200px;
+
+}
+
+.patrick {
+  float: right;
+  background-color: hsl(219, 29%, 14%);
+  border-radius: 10px;
+  position: relative;
+  margin-top: -260px;
+  margin-right: 322px;
+  padding: 30px;
+  width: 530px;
+  height: 200px;
+
+}
+
+.kira {
+  float: right;
+  width: 230px;
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+  margin-top: -585px;
+  color: black;
+  padding: 30px;
+  height: 525px;
+
+}
+
+.name {
+  position: absolute;
+  margin-top: -46px;
+  margin-left: 50px;
+  line-height: .1;
+}
+
+.imgs img {
+  border-radius: 100%;
+  border: 3px solid none;
+  margin-left: 0px;
+  margin-top: -10px;
+  width: 30px;
+}
+
+
+.img img {
+  border-radius: 100%;
+  border: 3px solid	#af88ec;
+  margin-left: 0px;
+  margin-top: -10px;
+  width: 30px;
+}
+
+h4 {
+  font-weight: 500;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+  color: black;
+}
+
+.p1-d {
+  width: 530px;
+  font-size: 1.4em;
+  position: absolute;
+  margin-top: -10px;
+}
+
+.p2-d {
+  line-height: 1.5;
+  margin-top: 100px;
+  font-size: 1.1em;
+  color: 	#af88ec;
+
+}
+
+.d {
+  color: 	#af88ec;
+
+}
+
+.p1-j {
+font-size: 1.3em;
+margin-top: -10px;
+}
+
+.p2-j {
+margin-top: -2px;
+line-height: 1.5;
+font-size: 1.05em;
+color: #a4adbc;
+
+}
+
+.Verified {
+  color: #a4adbc;
+}
+
+.K {
+  color: hsl(217, 19%, 35%);
+}
+
+.p1-k {
+  color: hsl(217, 19%, 35%);
+  font-size: 1.5em;
+}
+
+.p2-k {
+  color: #a4adbc;
+  line-height: 1.5;
+  margin-top: -10px;
+
+}
+
+.J {
+  color: hsl(217, 19%, 35%);
+}
+
+.p1-jeanette {
+  color: hsl(217, 19%, 35%);
+  font-size: 1.4em;
+  margin-top: -10px;
+}
+
+.p2-jeanette {
+  color: #a4adbc;
+  line-height: 1.5;
+}
+
+.p1-p {
+  font-size: 1.4em;
+  margin-top: -10px;
+}
+
+.p2-p {
+  color: #a4adbc;
+  line-height: 1.5;
+  font-size: 1.15em;
+  margin-top: -5px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
